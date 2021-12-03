@@ -1,0 +1,17 @@
+app_id: DuelingBanditsPureExploration
+args:
+  alg_list:
+  - {alg_id: BR_LilUCB, alg_label: BR_LilUCB}
+  - {alg_id: BR_Random, alg_label: BR_Random}
+  algorithm_management_settings:
+    mode: fixed_proportions
+    params:
+    - {alg_label: BR_LilUCB, proportion: 1}
+    - {alg_label: BR_Random, proportion: 0}
+    # - {alg_label: BR_LilUCB, proportion: 0.5}
+    # - {alg_label: BR_Random, proportion: 0.5}
+  context: https://uwmadison.co1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_80TvOXpOXat9RxI
+  context_type: image
+  failure_probability: 0.01
+  num_tries: 10
+  participant_to_algorithm_management: one_to_many
