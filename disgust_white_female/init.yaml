@@ -6,12 +6,12 @@ args:
   algorithm_management_settings:
     mode: fixed_proportions
     params:
-    - {alg_label: BR_LilUCB, proportion: 1}
-    - {alg_label: BR_Random, proportion: 0}
+    - {alg_label: BR_LilUCB, proportion: 0.90}
+    - {alg_label: BR_Random, proportion: 0.10}
     # - {alg_label: BR_LilUCB, proportion: 0.5}
     # - {alg_label: BR_Random, proportion: 0.5}
   context: https://uwmadison.co1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_er3kGiV5nUJCkse
   context_type: image
   failure_probability: 0.01
-  num_tries: 10
+  num_tries: 200
   participant_to_algorithm_management: one_to_many

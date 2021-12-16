@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://ec2-54-186-151-236.us-west-2.compute.amazonaws.com:8000/
+HostUrl=https://mpld3.github.io/js/mpld3.v0.2.js

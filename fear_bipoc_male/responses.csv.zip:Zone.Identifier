@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://ec2-54-186-151-236.us-west-2.compute.amazonaws.com:8000/dashboard/experiment_dashboard/6f156763355e621a24541bc3a898d8/DuelingBanditsPureExploration
+HostUrl=http://ec2-54-186-151-236.us-west-2.compute.amazonaws.com:8000/api/experiment/6f156763355e621a24541bc3a898d8/participants?csv=1&zip=1
