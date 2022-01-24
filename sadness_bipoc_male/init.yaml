@@ -13,5 +13,5 @@ args:
   context: https://uwmadison.co1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_dbf2dyj7KGtrN2e
   context_type: image
   failure_probability: 0.01
-  num_tries: 10
+  num_tries: 120
   participant_to_algorithm_management: one_to_many
