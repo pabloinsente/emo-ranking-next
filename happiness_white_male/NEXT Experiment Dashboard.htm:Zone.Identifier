@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://ec2-35-88-86-26.us-west-2.compute.amazonaws.com:8000/assistant/init
+HostUrl=http://ec2-35-88-86-26.us-west-2.compute.amazonaws.com:8000/dashboard/experiment_dashboard/d53529cea861bb5cae47dbac07e72f/DuelingBanditsPureExploration
