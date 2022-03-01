@@ -1,4 +1,5 @@
-﻿0,distressed,0.92746,0.07198
+﻿Rank,Target,Score,Precision
+0,distressed,0.92746,0.07198
 1,disgusted,0.90909,0.08704
 2,heartbroken,0.90345,0.08305
 3,distraught,0.86,0.1
